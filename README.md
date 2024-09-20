@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Online Course Website
 
 ## Project Description
@@ -27,6 +26,23 @@ This project is a simple Online Course Website built using HTML and CSS. The web
 - Navigate through the website using the menu links.
 
 ## Screenshots
-=======
-# course-website
->>>>>>> 17e72fb220ac95806f4d316b3973bb7105a002c4
+### Login Page
+![Login Page](./Screenshots/Login.png)
+### Register Page
+![Register Page](./Screenshots/Register.png)
+### Home Page
+![Home Page](./Screenshots/Home.png)
+### Profile Page
+![Profile Page](./Screenshots/Profile.png)
+### About Page
+![About Page](./Screenshots/About%20Us.png)
+### Courses Page
+![Courses Page](.Screenshots/Courses.png)
+### Teachers Page
+![Teachers Page](./Screenshots/Teachers.png)
+### Contact Us Page
+![Contact Us Page](./Screenshots/Contact%20Us.png)
+
+# Preview Link
+You can view a live demo of the website by clicking the link below:
+Preview Link ->
