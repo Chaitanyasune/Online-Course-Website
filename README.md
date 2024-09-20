@@ -37,7 +37,7 @@ This project is a simple Online Course Website built using HTML and CSS. The web
 ### About Page
 ![About Page](./Screenshots/About%20Us.png)
 ### Courses Page
-![Courses Page](.Screenshots/Courses.png)
+![Courses Page](./Screenshots/Courses.png)
 ### Teachers Page
 ![Teachers Page](./Screenshots/Teachers.png)
 ### Contact Us Page
