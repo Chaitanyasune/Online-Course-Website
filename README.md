@@ -44,5 +44,5 @@ This project is a simple Online Course Website built using HTML and CSS. The web
 ![Contact Us Page](./Screenshots/Contact%20Us.png)
 
 # Preview Link
-You can view a live demo of the website by clicking the link below:
-Preview Link ->
+You can view a live demo of the website by clicking the link below:  
+Preview Link -> https://chaitanyasune.github.io/Online-Course-Website/
